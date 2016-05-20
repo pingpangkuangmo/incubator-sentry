@@ -241,6 +241,7 @@ limitations under the License.
           <api>JDO</api>
           <metadataIncludes>**/*.jdo</metadataIncludes>
           <verbose>true</verbose>
+          <fork>false</fork>
         </configuration>
         <executions>
           <execution>
